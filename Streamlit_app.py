@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from annotated_text import annotated_text
 
 st.set_page_config(
     page_title = 'Streamlit',
